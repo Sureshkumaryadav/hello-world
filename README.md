@@ -1,2 +1,3 @@
-# hello-world
-devops training
+# maven-project
+
+Simple Maven Project
